@@ -1,8 +1,13 @@
 #title:hover,
+#newTitle:hover,
 #newTitle:hover {
   cursor: pointer;
 }
 
 #newTitle {
   background-color: aliceblue;
+}
+
+#newerTitle {
+  color: blue;
 }
